@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
@@ -16,13 +17,14 @@ const Hero = () => {
           <p className='text-lg text-gray-700'>All your favourite restaurants, delivered to your doorstep.</p>
           <div className='flex justify-center md:justify-start items-center space-x-3'>
             <span className='text-sm md:text-base text-gray-700 font-bold'>Explore our options now!</span>
-            <a
-              href='/restaurants'
+            <Link
+              to='/restaurants'
               className='bg-red-600 hover:bg-red-700 text-white font-bold px-6 py-3 rounded-full shadow-lg transition-all duration-300'>
               Order Now
-            </a>
+            </Link>
           </div>
         </div>
+
         {/* Image */}
         <div>
           <img className='w-full max-w-md rounded-lg' src='/hero.png' alt='Fast Food Items'></img>
