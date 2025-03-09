@@ -1,12 +1,25 @@
-# React + Vite
+# Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A dynamic food delivery application that allows users to browse restaurants. Stay tuned for more features coming soon!
 
-## Expanding the ESLint configuration
+<p align="center">
+    <img src="imgs/DeliveryApp_HomePage.png" alt="Delivery App Home Page" width="600" height="400"/>
+</p>
+<p align="center"><i>A preview of the Food Delivery App homepage.</i></p>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Implementation
+
+This application was created using various technologies including **React**, **Tailwind CSS**, and was built with **Vite**.
+
+---
+
+## Setup
+To run the application:
+1. ```npm install```
+2. ```npm run dev```
