@@ -7,7 +7,7 @@
 A dynamic food delivery application that allows users to browse restaurants. Stay tuned for more features coming soon!
 
 <p align="center">
-    <img src="imgs/DeliveryApp_HomePage.png" alt="Delivery App Home Page" width="600" height="400"/>
+    <img src="imgs/DeliveryApp_HomePage.png" alt="Delivery App Home Page" width="800" height="300"/>
 </p>
 <p align="center"><i>A preview of the Food Delivery App homepage.</i></p>
 
