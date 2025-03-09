@@ -1,8 +1,11 @@
 import React from 'react'
+import RestaurantCards from '../components/RestaurantCards'
 
 const RestaurantPage = () => {
   return (
-    <div>RestaurantPage</div>
+    <>
+      <RestaurantCards />
+    </>
   )
 }
 
